@@ -733,7 +733,7 @@ h5,
   top: 16.5%;
   left: 0;
   right: 0;
-  bottom: 12.5%;
+  bottom: 2.5%;
 }
 .hero-news h1 {
   font-weight: 700;
@@ -757,10 +757,10 @@ h5,
   content: "";
   position: absolute;
   background: rgba(0, 0, 0, 0.5);
-  top: 16.5%;
+  top: 18.5%;
   left: 0;
   right: 0;
-  bottom: 12%;
+  bottom: 0;
 }
 .hero h1 {
   font-weight: 700;
